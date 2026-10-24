@@ -238,7 +238,6 @@ LLMs are advanced AI models trained on massive amounts of text data to understan
 ---
 
 
-[Prompt Experiment 1.pptx](https://github.com/user-attachments/files/33898838/Prompt.Experiment.1.pptx)
 
 
 # Result
